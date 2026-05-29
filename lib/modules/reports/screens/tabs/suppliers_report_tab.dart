@@ -4,7 +4,7 @@ import 'package:app/core/extensions/num_extensions.dart';
 import 'package:app/core/theme/app_theme.dart';
 import 'package:app/core/services/debouncer.dart';
 import 'package:app/data/datasources/models/order_model.dart';
-import '../../models/report_models.dart';
+import 'package:app/modules/reports/models/report_models.dart' as ReportModels;
 import '../../widgets/bar_chart_card.dart';
 import '../../widgets/report_table.dart';
 

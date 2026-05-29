@@ -26,6 +26,7 @@ import 'package:app/core/exports.dart';
 import 'package:app/core/utils/date_filter_type.dart';
 import 'package:app/core/utils/date_filter_helper.dart';
 import 'package:app/modules/reports/widgets/report_filter_bar.dart';
+import 'package:app/data/datasources/models/order_model.dart';
 
 class MainReportScreen extends StatefulWidget {
   const MainReportScreen({Key? key}) : super(key: key);

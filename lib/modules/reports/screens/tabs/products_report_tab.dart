@@ -9,7 +9,7 @@ import '../../widgets/bar_chart_card.dart';
 import '../../widgets/report_table.dart';
 import '../../widgets/report_loading.dart';
 import 'package:app/core/exports.dart';
-import '../models/report_models.dart' as ReportModels;
+import 'package:app/modules/reports/models/report_models.dart' as ReportModels;
 import 'package:app/data/datasources/models/order_model.dart';
 
 class ProductsReportTab extends StatefulWidget {

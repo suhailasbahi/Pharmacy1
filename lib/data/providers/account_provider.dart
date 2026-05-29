@@ -252,7 +252,7 @@ class AccountProvider extends ChangeNotifier {
     return {
       'totalPurchases': totalPurchases,
       'totalPayments': totalPayments,
-      'currentBalance': currentBalance,
+      'currentBalance': currentBalance.toDouble(),
     };
   }
 
