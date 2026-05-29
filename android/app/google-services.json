@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "277119898450",
+    "project_id": "pharmacy-wholesale",
+    "storage_bucket": "pharmacy-wholesale.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277119898450:android:8058230d26a952834de08b",
+        "android_client_info": {
+          "package_name": "com.pharmacy.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtyfG2M6mtSAdAqKT1Ye12UNOf6aLHdYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
